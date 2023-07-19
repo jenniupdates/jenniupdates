@@ -1,11 +1,13 @@
-<h1 align="center">🥳 Hello!! My name is Lim Yin Shan 👋</h1>
+
+<h1 align="center">👋 Hello, my name is Lim Yin Shan 🥳</h1>
 <!-- <h3 align="center">I am a cloud engineer / solution architect / software engineer / game developer enthusiast</h3> -->
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F72727&vCenter=true&width=600&height=20&lines=I+am+a+cloud+engineer+enthusiast;I+am+a+software+engineer+enthusiast;I+am+a+solution+architect+enthusiast;I+am+a+game+developer+enthusiast)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F72727&vCenter=true&width=600&height=20&lines=I+am+a+cloud+engineer+enthusiast!;I+am+a+software+engineer+enthusiast!;I+am+a+solution+architect+enthusiast!;I+am+a+game+developer+enthusiast!)
 
-- 🌱 I’m currently learning **RedHat, Unity, Sockets...**
-- ☀️ From sunny Singapore
+- 💡 I’m currently learning **RedHat, Unity and Web Sockets**  
+- 🌞 From sunny Singapore
 - 🍄 just another MapleStory lover
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Red_Hat_logo.svg/1280px-Red_Hat_logo.svg.png" width="50" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original-wordmark.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" width="40" height="40"/> -->
  
 <h2>📇 Connect / Contact</h2>
 
@@ -78,4 +80,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jenniupdates&theme=blood&hide_border=true&border_radius=15&background=F8F8F8&hide_current_streak=true)](https://git.io/streak-stats)
+[![](https://streak-stats.demolab.com?user=jenniupdates&theme=blood&hide_border=true&border_radius=15&background=F8F8F8&hide_current_streak=true)]()
