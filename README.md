@@ -1,7 +1,7 @@
 <h1 align="center">🥳 Hello!! My name is Lim Yin Shan 👋</h1>
 <!-- <h3 align="center">I am a cloud engineer / solution architect / software engineer / game developer enthusiast</h3> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F72727&vCenter=true&width=600&height=20&lines=I+am+a+cloud+engineer+enthusiast;I+am+a+software+engineer+enthusiast;I+am+a+solution+architect+enthusiast;I+am+a+game+developer+enthusiast)]()
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F72727&vCenter=true&width=600&height=20&lines=I+am+a+cloud+engineer+enthusiast;I+am+a+software+engineer+enthusiast;I+am+a+solution+architect+enthusiast;I+am+a+game+developer+enthusiast)
 
 - 🌱 I’m currently learning **RedHat, Unity, Sockets...**
 - ☀️ From sunny Singapore
