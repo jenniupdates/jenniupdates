@@ -7,6 +7,7 @@
 - 💡 I’m currently learning **RedHat, Unity and Web Sockets**  
 - 🌞 From sunny Singapore
 - 🍄 just another MapleStory lover
+- 🎓 just graduated from Singapore Management Univeristy (Information Systems)
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Red_Hat_logo.svg/1280px-Red_Hat_logo.svg.png" width="50" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original-wordmark.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" width="40" height="40"/> -->
  
 <h2>📇 Connect / Contact</h2>
