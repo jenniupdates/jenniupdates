@@ -6,8 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F72727&vCenter=true&width=600&height=20&lines=I+am+a+cloud+engineer+enthusiast;I+am+a+software+engineer+enthusiast;I+am+a+solution+architect+enthusiast;I+am+a+game+developer+enthusiast)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **RedHat, Unity, Sockets, investment...**
+- 🌱 I’m currently learning **RedHat, Unity, Sockets...**
 - ☀️ From sunny Singapore
+- 🍄 just another MapleStory lover
 <br/>
 <p align="left">
   <a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" align="center" height="30" width="40"/></a>
