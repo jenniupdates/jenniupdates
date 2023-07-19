@@ -10,7 +10,7 @@
 - ☀️ From sunny Singapore
 - 🍄 just another MapleStory lover
  
-<h2>👉 Connect / Contact</h2>
+<h2>📇 Connect / Contact</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lim-yin-shan/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" align="center" height="30" width="40"/></a>
