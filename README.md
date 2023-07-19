@@ -7,14 +7,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F72727&center=true&width=600&lines=I+am+a+cloud+engineer+enthusiast;I+am+a+software+engineer+enthusiast;I+am+a+solution+architect+enthusiast;I+am+a+game+developer+enthusiast)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **RedHat, Unity, Sockets, investment...**
-
-
-<h3 align="left">Connect with me / Reach me at:</h3>
+<br/>
 <p align="left">
   <a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" align="center" height="30" width="40"/></a>
   <a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" align="center" height="30" width="40"/></a>
   <a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" align="center" height="30" width="40"/></a>
 </p>
+
+<h2>Some skills I've used</h2>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -31,7 +31,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmarkk.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
@@ -51,7 +51,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>
-  <br/> and other Cloud Database Services...
+  and other Cloud Database Services...
 </p>
 
 <h3 align="left">Tools / Others:</h3>
