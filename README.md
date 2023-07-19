@@ -1,10 +1,7 @@
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F70303&center=true&vCenter=true&width=600&lines=Hello+friends%2C+welcome+to+my+GitHub+profile!!;Hola+amigos%2C+bienvenidos+a+mi+perfil+de+GitHub!!;%E5%A4%A7%E5%AE%B6%E5%A5%BD%EF%BC%8C%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub!!)]() -->
-
-
 <h1 align="center">🥳 Hello!! My name is Lim Yin Shan 👋</h1>
 <!-- <h3 align="center">I am a cloud engineer / solution architect / software engineer / game developer enthusiast</h3> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F72727&vCenter=true&width=600&height=20&lines=I+am+a+cloud+engineer+enthusiast;I+am+a+software+engineer+enthusiast;I+am+a+solution+architect+enthusiast;I+am+a+game+developer+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F72727&vCenter=true&width=600&height=20&lines=I+am+a+cloud+engineer+enthusiast;I+am+a+software+engineer+enthusiast;I+am+a+solution+architect+enthusiast;I+am+a+game+developer+enthusiast)]()
 
 - 🌱 I’m currently learning **RedHat, Unity, Sockets...**
 - ☀️ From sunny Singapore
