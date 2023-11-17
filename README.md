@@ -4,10 +4,11 @@
 
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F72727&vCenter=true&width=600&height=20&lines=I+am+a+cloud+engineer+enthusiast!;I+am+a+software+engineer+enthusiast!;I+am+a+solution+architect+enthusiast!;I+am+a+game+developer+enthusiast!)
 
-- 💡 I’m currently learning **RedHat, Unity and Web Sockets**  
+- 💡 I’m currently learning **Terraform, RedHat, Unity and Web Sockets**
+- 🛠 A Cloud Engineer at NEC Asia Pacific
 - 🌞 From sunny Singapore
 - 🍄 just another MapleStory lover
-- 🎓 recent graduate from Singapore Management University (Information Systems)
+- 🎓 recent graduate from Singapore Management University (Information Systems, July 2023)
 
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Red_Hat_logo.svg/1280px-Red_Hat_logo.svg.png" width="50" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original-wordmark.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" width="40" height="40"/> -->
  
