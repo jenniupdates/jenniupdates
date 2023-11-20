@@ -4,8 +4,8 @@
 
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F72727&vCenter=true&width=600&height=20&lines=I+am+a+cloud+engineer+enthusiast!;I+am+a+software+engineer+enthusiast!;I+am+a+solution+architect+enthusiast!;I+am+a+game+developer+enthusiast!)
 
-- 💡 I’m currently learning **Terraform, RedHat, Unity and Web Sockets**
-- 🛠 A Cloud Engineer at NEC Asia Pacific
+- 🛠 A Cloud Engineer at NEC Asia Pacific (Aug 2023 - Present)
+- 💡 I’m currently learning RedHat, Unity and Web Sockets
 - 🌞 From sunny Singapore
 - 🍄 just another MapleStory lover
 - 🎓 recent graduate from Singapore Management University (Information Systems, July 2023)
